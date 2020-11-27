@@ -2,7 +2,7 @@
 
 This was a small test to see how LiveView works by creating a simple light switch following The Pragmatic Studio's ['Getting Started with LiveView'](https://pragmaticstudio.com/tutorials/getting-started-with-phoenix-liveview) tutorial.
 
-![alt text](https://i.imgur.com/CKVXBJl.png"Phoenix LiveView Light Switch")
+![alt text](https://i.imgur.com/CKVXBJl.png "Phoenix LiveView Light Switch")
 
 To start your Phoenix server:
 
